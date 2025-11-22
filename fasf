@@ -1,0 +1,42 @@
+[33mcommit 91fed05deca279f7a03471bad11c8c0c83e197b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:22:14 2025 +0100
+
+    G: added Benjamin
+
+[33mcommit d19b47786e8f934f6a93b7b834c3f1f542f1b3b6[m[33m ([m[1;32mupdate_titles[m[33m)[m
+Merge: ccc462c 8fe02f6
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:20:05 2025 +0100
+
+    F: Merge branch 'add_classics'
+
+[33mcommit ccc462c1c481151edfb5fc220105bc9248a6c333[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:19:40 2025 +0100
+
+    E: added contents.md
+
+[33mcommit 8fe02f66e1d000b9204d71b1e117a24d1326df07[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:18:40 2025 +0100
+
+    D: added classics.csv
+
+[33mcommit 976ffe624157fcf0e73ff6797c5625df76051d10[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:15:46 2025 +0100
+
+    C: add quotes
+
+[33mcommit dd7837366be8f44e311593e45c046fe8107654f7[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:14:03 2025 +0100
+
+    B: add titles
+
+[33mcommit eaa975ac8f68062b72bc427dd1c527e760c745ea[m
+Author: angiP <angelina.petzold@proton.me>
+Date:   Sat Nov 22 18:13:13 2025 +0100
+
+    A: add contents.md
